@@ -1,2 +1,2 @@
 # hello-world
-training repository
+training repository master
